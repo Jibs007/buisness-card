@@ -1,0 +1,27 @@
+body{
+    margin: 20px;
+    background-color:#BCAF9C; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    width: 200px;
+    border-radius: 15px;
+
+}
+
+.card{
+    width: 500px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: #093A3E;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px;
+}
+
+.card:hover{
+    background: #001011;
+    color: #CCDAD1;
+}
